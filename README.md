@@ -276,7 +276,34 @@ static void fini(void) {
 
 ## 许可
 
-MIT。仅供学习研究。
+采用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
+（署名-非商业性使用-相同方式共享 4.0 国际），与原项目一致。
+
+| 你的要求 | CC BY-NC-SA 4.0 条款 |
+|---|---|
+| 禁止商用 | 第 2(a)(1) 条 NonCommercial |
+| 必须开源 | 第 3(b) 条 ShareAlike |
+| 必须署名 | 第 3(a) 条 Attribution |
+
+### 附加条款
+
+**1. 署名格式** —— 分发时必须显著注明：
+
+```
+本项目基于 ZhaoHua Nexus 开发
+https://github.com/PnKoZCN/zhaohua-nexus
+```
+
+**2. 严禁开发游戏外挂** —— 禁止任何联网多人环境中的作弊功能
+（自瞄、透视、飞行、加速、无敌、自动战斗、脚本挂机等）、绕过反作弊、
+商业外挂、损害其他玩家利益。
+
+允许：纯单机/离线、获许可的私人测试服、单人自身账号、安全研究。
+
+**违反任一条款，授权立即终止。**
+
+完整条款见 [LICENSE](LICENSE) 与原项目
+[README 附加条款](https://github.com/PnKoZCN/zhaohua-nexus#附加条款additional-terms)。
 
 ---
 
