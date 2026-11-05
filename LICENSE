@@ -1,31 +1,49 @@
-MIT License
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Copyright (c) 2026 ZhaoHua Nexus Contributors
+本示例工程（zhaohua-example-mod）是 ZhaoHua Nexus 的衍生作品，
+采用与原项目相同的协议：
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+完整法律文本见原项目 LICENSE：
+  https://github.com/PnKoZCN/zhaohua-nexus/blob/main/LICENSE
 
 ---
 
-DISCLAIMER
+标准条款已覆盖：
 
-This project is provided strictly for educational and research purposes.
-Users are solely responsible for complying with all applicable laws and the
-terms of service of any game or platform. The authors do not condone or
-support cheating in multiplayer environments, and accept no liability for
-any consequences arising from use of this software.
+  ✅ 署名（Attribution）        —— 必须保留原作者与来源链接
+  ✅ 非商业（NonCommercial）    —— 禁止任何形式的商业使用
+  ✅ 相同方式共享（ShareAlike） —— 衍生作品必须以相同协议开源
+
+---
+
+附加条款（原项目 README 的「附加条款」同样适用于本工程）：
+
+1. 署名格式
+
+   分发本工程或其衍生作品时，必须在 README 首屏显著注明：
+
+       本项目基于 ZhaoHua Nexus 开发
+       https://github.com/PnKoZCN/zhaohua-nexus
+
+   不得声称原创、不得移除署名、不得以改名规避、不得暗示原作者背书。
+
+2. 严禁开发游戏外挂
+
+   禁止：任何联网多人环境中的作弊功能（自瞄、透视、飞行、加速、
+         无敌、自动战斗、脚本挂机等）、绕过反作弊、商业外挂、
+         损害其他玩家利益。
+
+   允许：纯单机/离线、获许可的私人测试服、单人自身账号、安全研究。
+
+   违反本节，授权立即终止。
+
+3. 免责声明
+
+   使用本工程可能导致账号封禁、设备不稳定、数据丢失，风险自负。
+   作者与网易、Mojang、Microsoft 无任何关联。
+
+---
+
+Copyright (c) 2026 ZhaoHua Nexus Contributors
